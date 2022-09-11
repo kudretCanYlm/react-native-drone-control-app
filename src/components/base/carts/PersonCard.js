@@ -53,7 +53,7 @@ const PersonCart = ({
                     <Text
                         style={style.btnText}
                     >
-                        Detaylar
+                        Details
                     </Text>
                 </TouchableHighlight>
             </View>
